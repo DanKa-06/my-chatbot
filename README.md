@@ -1,4 +1,4 @@
-# Ollama Chatbot for the Constitution of Kazakhstan
+# Ollama Chatbot
 
 This Streamlit application provides a chatbot interface for querying information related to the Constitution of the Republic of Kazakhstan. It leverages the power of Ollama as the large language model (LLM), Sentence Transformers for generating text embeddings, and Chroma as a persistent vector database for efficient semantic search.
 
